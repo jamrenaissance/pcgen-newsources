@@ -1,0 +1,7 @@
+# CVS $Revision: 19395 $ $Author: zaister $ -- Thu Jul 10 13:41:29 2014 -- reformated by prettylst.pl v1.51 (build 24365)
+#SOURCELONG:Heroes Of The Streets	SOURCESHORT:DEP	SOURCEWEB:http://paizo.com/products/btpy9ghc	
+# Original Entry by:Swiftbrook
+
+###Block: Class Feature Categories
+# Ability Category					Visible		Editable?		Change Pool?	Fractional values?	Category of Object		Type of Object				Plural description for UI			Display Location
+ABILITYCATEGORY:Shaman Slums Wandering Hex			VISIBLE:QUALIFY	EDITABLE:YES	EDITPOOL:YES	FRACTIONALPOOL:NO								CATEGORY:Special Ability	TYPE:ShamanSpiritHex.ShamanSlumsHex															DISPLAYLOCATION:Class Features

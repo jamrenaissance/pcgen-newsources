@@ -1,0 +1,49 @@
+# CVS $Revision$ $Author$ -- Fri Nov  8 13:07:25 2013 -- reformated by prettylst.pl v1.50 (build 21703)
+CAMPAIGN:Heroes Of The Streets
+GAMEMODE:Pathfinder|Pathfinder_PFS
+TYPE:Paizo Publishing.Pathfinder Player Companion
+RANK:3
+STATUS:BETA
+GENRE:Fantasy
+BOOKTYPE:Supplement
+SETTING:Pathfinder|Golarion
+PRECAMPAIGN:2,INCLUDESBOOKTYPE=Core Rules,INCLUDES=Advanced Player's Guide
+PUBNAMELONG:Paizo Inc.
+PUBNAMESHORT:Paizo
+PUBNAMEWEB:http://paizo.com/
+SOURCELONG:Heroes of the Streets
+SOURCESHORT:HOTS
+SOURCEWEB:http://paizo.com/products/btpy9ghc?Pathfinder-Player-Companion-Heroes-of-the-Streets
+SOURCEDATE:2012-01
+ISOGL:YES
+
+COVER:heroes_of_the_streets.jpg
+LOGO:@/publisher_logos/Paizo_Publishing.png
+URL:WEBSITE|http://www.paizo.com/|Visit Paizo Publishing!
+URL:WEBSITE|http://www.paizo.com/communityuse|Paizo's Community Use Policy.
+URL:Paizo Publishing|http://paizo.com/store/byCompany/p/paizoPublishingLLC/pathfinder/companion/pathfinderRPG/v5748btpy8hih|Buy this publication from Paizo Publishing!
+
+INFOTEXT:This dataset uses trademarks and/or copyrights owned by Paizo Inc., which are used under Paizo's Community Use Policy. We are expressly prohibited from charging you to use or access this content. This dataset is not published, endorsed, or specifically approved by Paizo Publishing. For more information about Paizo's Community Use Policy, please visit paizo.com/communityuse. For more information about Paizo Publishing and Paizo products, please visit paizo.com.
+COPYRIGHT:Open Game License v 1.0a Copyright 2000, Wizards of the Coast, Inc.
+COPYRIGHT:System Reference Document Copyright 2000, Wizards of the Coast, Inc; Authors: Jonathan Tweet, Monte Cook, and Skip Williams, based on material by E. Gary Gygax and Dave Arneson.
+COPYRIGHT:Player Companion: Heroes Of The Streets Copyright 2011, Paizo Inc.; Authors: Tim Hitchcock and Colin McComb.
+COPYRIGHT:PCGen dataset conversion for "Player Companion: Heroes Of The Streets" Copyright 2013, PCGen Data Team (including, but not limited to swiftbrook, Paul Shipley, Paul Grosse, Andrew Maitland, Jerone Mitchell)
+
+# Do not remove the EXTRAFILE comment.
+#EXTRAFILE:OGL.txt
+
+
+ABILITY:hots_abilities.lst
+ABILITY:hots_abilities_class.lst
+ABILITYCATEGORY:hots_abilitycategories.lst
+CLASS:hots_classes.lst
+DOMAIN:hots_domains.lst
+ABILITY:hots_feats.lst
+KIT:hots_kits.lst
+LANGUAGE:hots_languages.lst
+RACE:hots_races.lst
+SKILL:hots_skills.lst
+SPELL:hots_spells.lst
+TEMPLATE:hots_templates.lst
+
+WEAPONPROF:hots_profs_weapon.lst
